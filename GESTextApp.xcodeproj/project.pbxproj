@@ -22,6 +22,19 @@
 		17A59D9B166B8469003FEB8F /* PrimeMasterViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17A59D99166B8469003FEB8F /* PrimeMasterViewController_iPad.xib */; };
 		17A59D9E166B8469003FEB8F /* PrimeDetailViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17A59D9C166B8469003FEB8F /* PrimeDetailViewController_iPhone.xib */; };
 		17A59DA1166B8469003FEB8F /* PrimeDetailViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17A59D9F166B8469003FEB8F /* PrimeDetailViewController_iPad.xib */; };
+		17A59DC2166B974D003FEB8F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DA9166B974D003FEB8F /* Default-568h@2x.png */; };
+		17A59DC3166B974D003FEB8F /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DAA166B974D003FEB8F /* Default.png */; };
+		17A59DC4166B974D003FEB8F /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DAB166B974D003FEB8F /* Default@2x.png */; };
+		17A59DC5166B974D003FEB8F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DAC166B974D003FEB8F /* InfoPlist.strings */; };
+		17A59DC6166B974D003FEB8F /* PrimeDetailViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DAE166B974D003FEB8F /* PrimeDetailViewController_iPad.xib */; };
+		17A59DC7166B974D003FEB8F /* PrimeDetailViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DB0166B974D003FEB8F /* PrimeDetailViewController_iPhone.xib */; };
+		17A59DC8166B974D003FEB8F /* PrimeMasterViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DB2166B974D003FEB8F /* PrimeMasterViewController_iPad.xib */; };
+		17A59DC9166B974D003FEB8F /* PrimeMasterViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DB4166B974D003FEB8F /* PrimeMasterViewController_iPhone.xib */; };
+		17A59DCA166B974D003FEB8F /* GESTextApp-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 17A59DB6166B974D003FEB8F /* GESTextApp-Info.plist */; };
+		17A59DCB166B974D003FEB8F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A59DB8166B974D003FEB8F /* main.m */; };
+		17A59DCC166B974D003FEB8F /* PrimeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A59DBA166B974D003FEB8F /* PrimeAppDelegate.m */; };
+		17A59DCD166B974D003FEB8F /* PrimeDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A59DBC166B974D003FEB8F /* PrimeDetailViewController.m */; };
+		17A59DCE166B974D003FEB8F /* PrimeMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A59DBE166B974D003FEB8F /* PrimeMasterViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +59,24 @@
 		17A59D9A166B8469003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PrimeMasterViewController_iPad.xib; sourceTree = "<group>"; };
 		17A59D9D166B8469003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PrimeDetailViewController_iPhone.xib; sourceTree = "<group>"; };
 		17A59DA0166B8469003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PrimeDetailViewController_iPad.xib; sourceTree = "<group>"; };
+		17A59DA9166B974D003FEB8F /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		17A59DAA166B974D003FEB8F /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		17A59DAB166B974D003FEB8F /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		17A59DAD166B974D003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		17A59DAF166B974D003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PrimeDetailViewController_iPad.xib; sourceTree = "<group>"; };
+		17A59DB1166B974D003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PrimeDetailViewController_iPhone.xib; sourceTree = "<group>"; };
+		17A59DB3166B974D003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PrimeMasterViewController_iPad.xib; sourceTree = "<group>"; };
+		17A59DB5166B974D003FEB8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PrimeMasterViewController_iPhone.xib; sourceTree = "<group>"; };
+		17A59DB6166B974D003FEB8F /* GESTextApp-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GESTextApp-Info.plist"; sourceTree = "<group>"; };
+		17A59DB7166B974D003FEB8F /* GESTextApp-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GESTextApp-Prefix.pch"; sourceTree = "<group>"; };
+		17A59DB8166B974D003FEB8F /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		17A59DB9166B974D003FEB8F /* PrimeAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrimeAppDelegate.h; sourceTree = "<group>"; };
+		17A59DBA166B974D003FEB8F /* PrimeAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrimeAppDelegate.m; sourceTree = "<group>"; };
+		17A59DBB166B974D003FEB8F /* PrimeDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrimeDetailViewController.h; sourceTree = "<group>"; };
+		17A59DBC166B974D003FEB8F /* PrimeDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrimeDetailViewController.m; sourceTree = "<group>"; };
+		17A59DBD166B974D003FEB8F /* PrimeMasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrimeMasterViewController.h; sourceTree = "<group>"; };
+		17A59DBE166B974D003FEB8F /* PrimeMasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrimeMasterViewController.m; sourceTree = "<group>"; };
+		17A59DBF166B974D003FEB8F /* GESTextApp.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = GESTextApp.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +96,7 @@
 		17A59D69166B8468003FEB8F = {
 			isa = PBXGroup;
 			children = (
+				17A59DA7166B974D003FEB8F /* GESTextApp */,
 				17A59D7E166B8469003FEB8F /* GESTextApp */,
 				17A59D77166B8469003FEB8F /* Frameworks */,
 				17A59D75166B8469003FEB8F /* Products */,
@@ -121,6 +153,44 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		17A59DA7166B974D003FEB8F /* GESTextApp */ = {
+			isa = PBXGroup;
+			children = (
+				17A59DA8166B974D003FEB8F /* GESTextApp */,
+				17A59DBF166B974D003FEB8F /* GESTextApp.xcodeproj */,
+			);
+			name = GESTextApp;
+			sourceTree = "<group>";
+		};
+		17A59DA8166B974D003FEB8F /* GESTextApp */ = {
+			isa = PBXGroup;
+			children = (
+				17A59DA9166B974D003FEB8F /* Default-568h@2x.png */,
+				17A59DAA166B974D003FEB8F /* Default.png */,
+				17A59DAB166B974D003FEB8F /* Default@2x.png */,
+				17A59DAC166B974D003FEB8F /* InfoPlist.strings */,
+				17A59DAE166B974D003FEB8F /* PrimeDetailViewController_iPad.xib */,
+				17A59DB0166B974D003FEB8F /* PrimeDetailViewController_iPhone.xib */,
+				17A59DB2166B974D003FEB8F /* PrimeMasterViewController_iPad.xib */,
+				17A59DB4166B974D003FEB8F /* PrimeMasterViewController_iPhone.xib */,
+				17A59DB6166B974D003FEB8F /* GESTextApp-Info.plist */,
+				17A59DB7166B974D003FEB8F /* GESTextApp-Prefix.pch */,
+				17A59DB8166B974D003FEB8F /* main.m */,
+				17A59DB9166B974D003FEB8F /* PrimeAppDelegate.h */,
+				17A59DBA166B974D003FEB8F /* PrimeAppDelegate.m */,
+				17A59DBB166B974D003FEB8F /* PrimeDetailViewController.h */,
+				17A59DBC166B974D003FEB8F /* PrimeDetailViewController.m */,
+				17A59DBD166B974D003FEB8F /* PrimeMasterViewController.h */,
+				17A59DBE166B974D003FEB8F /* PrimeMasterViewController.m */,
+			);
+			path = GESTextApp;
+			sourceTree = "<group>";
+		};
+		17A59DC0166B974D003FEB8F /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -161,6 +231,12 @@
 			mainGroup = 17A59D69166B8468003FEB8F;
 			productRefGroup = 17A59D75166B8469003FEB8F /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 17A59DC0166B974D003FEB8F /* Products */;
+					ProjectRef = 17A59DBF166B974D003FEB8F /* GESTextApp.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				17A59D73166B8468003FEB8F /* GESTextApp */,
@@ -181,6 +257,15 @@
 				17A59D9B166B8469003FEB8F /* PrimeMasterViewController_iPad.xib in Resources */,
 				17A59D9E166B8469003FEB8F /* PrimeDetailViewController_iPhone.xib in Resources */,
 				17A59DA1166B8469003FEB8F /* PrimeDetailViewController_iPad.xib in Resources */,
+				17A59DC2166B974D003FEB8F /* Default-568h@2x.png in Resources */,
+				17A59DC3166B974D003FEB8F /* Default.png in Resources */,
+				17A59DC4166B974D003FEB8F /* Default@2x.png in Resources */,
+				17A59DC5166B974D003FEB8F /* InfoPlist.strings in Resources */,
+				17A59DC6166B974D003FEB8F /* PrimeDetailViewController_iPad.xib in Resources */,
+				17A59DC7166B974D003FEB8F /* PrimeDetailViewController_iPhone.xib in Resources */,
+				17A59DC8166B974D003FEB8F /* PrimeMasterViewController_iPad.xib in Resources */,
+				17A59DC9166B974D003FEB8F /* PrimeMasterViewController_iPhone.xib in Resources */,
+				17A59DCA166B974D003FEB8F /* GESTextApp-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,6 +280,10 @@
 				17A59D89166B8469003FEB8F /* PrimeAppDelegate.m in Sources */,
 				17A59D92166B8469003FEB8F /* PrimeMasterViewController.m in Sources */,
 				17A59D95166B8469003FEB8F /* PrimeDetailViewController.m in Sources */,
+				17A59DCB166B974D003FEB8F /* main.m in Sources */,
+				17A59DCC166B974D003FEB8F /* PrimeAppDelegate.m in Sources */,
+				17A59DCD166B974D003FEB8F /* PrimeDetailViewController.m in Sources */,
+				17A59DCE166B974D003FEB8F /* PrimeMasterViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +328,46 @@
 				17A59DA0166B8469003FEB8F /* en */,
 			);
 			name = PrimeDetailViewController_iPad.xib;
+			sourceTree = "<group>";
+		};
+		17A59DAC166B974D003FEB8F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				17A59DAD166B974D003FEB8F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		17A59DAE166B974D003FEB8F /* PrimeDetailViewController_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				17A59DAF166B974D003FEB8F /* en */,
+			);
+			name = PrimeDetailViewController_iPad.xib;
+			sourceTree = "<group>";
+		};
+		17A59DB0166B974D003FEB8F /* PrimeDetailViewController_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				17A59DB1166B974D003FEB8F /* en */,
+			);
+			name = PrimeDetailViewController_iPhone.xib;
+			sourceTree = "<group>";
+		};
+		17A59DB2166B974D003FEB8F /* PrimeMasterViewController_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				17A59DB3166B974D003FEB8F /* en */,
+			);
+			name = PrimeMasterViewController_iPad.xib;
+			sourceTree = "<group>";
+		};
+		17A59DB4166B974D003FEB8F /* PrimeMasterViewController_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				17A59DB5166B974D003FEB8F /* en */,
+			);
+			name = PrimeMasterViewController_iPhone.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

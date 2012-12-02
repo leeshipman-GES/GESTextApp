@@ -14,4 +14,5 @@
 
 @property (strong, nonatomic) PrimeDetailViewController *detailViewController;
 
+// Lee Test for GitHub integration
 @end
